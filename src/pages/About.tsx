@@ -1,16 +1,12 @@
 // import third-party modules
 import React from 'react';
-import { Link } from 'react-router-dom';
+
+import Content from '@/components/about/Content';
 
 function About() {
   document.title = 'Home - Home Nav';
 
-  return (
-    <>
-      <h1>About</h1>
-      <Link to='/'>Home</Link>
-    </>
-  );
+  return <Content />;
 }
 
 export default About;
