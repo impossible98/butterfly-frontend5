@@ -1,0 +1,11 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.fontSize": 14,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "bounded",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay"
+}
